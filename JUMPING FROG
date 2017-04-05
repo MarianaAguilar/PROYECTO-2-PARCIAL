@@ -102,7 +102,7 @@ void pantalla_2()
       pantalla = 2;
     }
   }
-  interTime = millis(); //aqui esta la modificacion
+  interTime = millis();
 }
 
 void pantalla_3()
